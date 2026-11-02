@@ -1,4 +1,3 @@
-"""MongoDB connection shared by the app and the scripts."""
 import tomllib
 from pathlib import Path
 
@@ -8,7 +7,6 @@ SECRETS_FILE = Path(__file__).resolve().parent.parent / ".streamlit" / "secrets.
 
 
 def read_local_secrets() -> dict:
-    """Secrets for scripts run outside Streamlit (the app uses st.secrets instead)."""
     with open(SECRETS_FILE, "rb") as f:
         return tomllib.load(f)
 

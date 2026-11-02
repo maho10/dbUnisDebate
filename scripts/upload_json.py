@@ -1,12 +1,3 @@
-"""Seed MongoDB with data/societies.json.
-
-Usage:
-    python scripts/upload_json.py            # only if the collection is empty
-    python scripts/upload_json.py --replace  # wipes the collection and reloads it from the JSON
-
-Once the app is live, MongoDB is the source of truth (approved suggestions are written there),
-so --replace would throw those changes away.
-"""
 import argparse
 import json
 import sys
