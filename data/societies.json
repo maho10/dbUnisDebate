@@ -1,0 +1,2083 @@
+[
+  {
+    "code": "ACIPOL",
+    "country": "Chile",
+    "type": "universidad",
+    "institution": {
+      "name": "Academia de Ciencias Policiales",
+      "acronym": "ACIPOL"
+    },
+    "society": {
+      "name": "Academia de Ciencias Policiales",
+      "acronym": "ACIPOL"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 2
+  },
+  {
+    "code": "ADEIN",
+    "country": "Chile",
+    "type": "escolar",
+    "institution": {
+      "name": "Instituto Nacional",
+      "acronym": "IN"
+    },
+    "society": {
+      "name": "Academia de Debate del Instituto Nacional de Chile",
+      "acronym": "ADEIN"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 3
+  },
+  {
+    "code": "UB",
+    "country": "España",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad de Barcelona",
+      "acronym": "UB"
+    },
+    "society": {
+      "name": "Associació de Debat de la Universitat de Barcelona",
+      "acronym": "ADUB"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 4
+  },
+  {
+    "code": "ADUSAL",
+    "country": "España",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad de Salamanca",
+      "acronym": "USAL"
+    },
+    "society": {
+      "name": "Asociación de Debate de la Universidad de Salamanca",
+      "acronym": "ADUSAL"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 5
+  },
+  {
+    "code": "ADUV",
+    "country": "Chile",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad de Valparaíso",
+      "acronym": "UV"
+    },
+    "society": {
+      "name": "Asociación de Debate de la Universidad de Valparaíso",
+      "acronym": "ADUV"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 6
+  },
+  {
+    "code": "ADUZ",
+    "country": "España",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad de Zaragoza",
+      "acronym": "UZ"
+    },
+    "society": {
+      "name": "Asociación de Debate de la Universidad de Zaragoza",
+      "acronym": "ADUZ"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 7
+  },
+  {
+    "code": "ESPOL",
+    "country": "Ecuador",
+    "type": "universidad",
+    "institution": {
+      "name": "Escuela Superior Politécnica del Litoral",
+      "acronym": "ESPOL"
+    },
+    "society": {
+      "name": "Club de Debate y Oratoria Argumentum",
+      "acronym": "ARGUMENTUM"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 8
+  },
+  {
+    "code": "BDS",
+    "country": "España",
+    "type": "universidad",
+    "institution": {
+      "name": "Universitat Pompeu Fabra",
+      "acronym": "UPF"
+    },
+    "society": {
+      "name": "Barcelona Debating Society de la Universitat Pompeu Fabra",
+      "acronym": "BDS"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 9
+  },
+  {
+    "code": "BDU",
+    "country": "Estados Unidos",
+    "type": "universidad",
+    "institution": {
+      "name": "Brown University",
+      "acronym": "BU"
+    },
+    "society": {
+      "name": "Brown University",
+      "acronym": "BRU"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 10
+  },
+  {
+    "code": "CDA",
+    "country": "España",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad de Oviedo",
+      "acronym": "UNIOVI"
+    },
+    "society": {
+      "name": "Club de Debate de Asturias",
+      "acronym": "CDA"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 11
+  },
+  {
+    "code": "CDC",
+    "country": "España",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidade de Santiago de Compostela",
+      "acronym": "USC"
+    },
+    "society": {
+      "name": "Club Debate Compostela",
+      "acronym": "CDC"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 12
+  },
+  {
+    "code": "PUCE",
+    "country": "Ecuador",
+    "type": "universidad",
+    "institution": {
+      "name": "Pontificia Universidad Católica del Ecuador",
+      "acronym": "PUCE"
+    },
+    "society": {
+      "name": "Club de Debate y Oratoria Pontificia Universidad Católica del Ecuador",
+      "acronym": "CDO PUCE"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 13
+  },
+  {
+    "code": "USIL",
+    "country": "Perú",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad San Ignacio de Loyola",
+      "acronym": "USIL"
+    },
+    "society": {
+      "name": "Club de Debate Universidad San Ignacio de Loyola",
+      "acronym": "CDUSIL"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 14
+  },
+  {
+    "code": "CDUGR",
+    "country": "España",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad de Granada",
+      "acronym": "UGR"
+    },
+    "society": {
+      "name": "Universidad de Granada",
+      "acronym": "CDUGR"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 15
+  },
+  {
+    "code": "CDUP",
+    "country": "Panamá",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad de Panamá",
+      "acronym": "UP"
+    },
+    "society": {
+      "name": "Club de Debate de la Universidad de Panamá",
+      "acronym": "CDUP"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 16
+  },
+  {
+    "code": "CEDAR",
+    "country": "Perú",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad de Lima",
+      "acronym": "ULI"
+    },
+    "society": {
+      "name": "Círculo de Debate y Argumentación Jurídica",
+      "acronym": "CEDAR"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 17
+  },
+  {
+    "code": "CEU SP",
+    "country": "España",
+    "type": "universidad",
+    "institution": {
+      "name": "Centro de Estudios Universitarios San Pablo",
+      "acronym": "CEU SP"
+    },
+    "society": {
+      "name": "Club de Debate Centro de Estudios Universitarios San Pablo",
+      "acronym": "CEUSP"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 18
+  },
+  {
+    "code": "CIDE UCV",
+    "country": "Perú",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad César Vallejo",
+      "acronym": "UCV"
+    },
+    "society": {
+      "name": "Círculo de Debate Universidad César Vallejo",
+      "acronym": "CIDE UCV"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 19
+  },
+  {
+    "code": "CIDELA",
+    "country": "Perú",
+    "type": "escolar",
+    "institution": {
+      "name": "Colegio Los Álamos",
+      "acronym": ""
+    },
+    "society": {
+      "name": "Círculo de Debate Los Álamos",
+      "acronym": "CIDELA"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 20
+  },
+  {
+    "code": "UNSA",
+    "country": "Perú",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Nacional de San Agustín de Arequipa",
+      "acronym": "UNSA"
+    },
+    "society": {
+      "name": "Círculo de Debate y Oratoria de la Universidad Nacional de San Agustín de Arequipa",
+      "acronym": "CIDEUNSA"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 21
+  },
+  {
+    "code": "CIDEUP",
+    "country": "Perú",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad del Pacífico",
+      "acronym": "UP"
+    },
+    "society": {
+      "name": "Universidad del Pacífico",
+      "acronym": "PACÍFICO"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 22
+  },
+  {
+    "code": "CIV",
+    "country": "España",
+    "type": "independiente",
+    "institution": {
+      "name": "",
+      "acronym": ""
+    },
+    "society": {
+      "name": "Club Independiente Valenciano",
+      "acronym": "CIV"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 23
+  },
+  {
+    "code": "UMU",
+    "country": "España",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad de Murcia",
+      "acronym": "UMU"
+    },
+    "society": {
+      "name": "Club de Debate Universidad de Murcia",
+      "acronym": "UMU"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 24
+  },
+  {
+    "code": "Mendel",
+    "country": "España",
+    "type": "universidad",
+    "institution": {
+      "name": "Colegio Mayor Mendel",
+      "acronym": "CMM"
+    },
+    "society": {
+      "name": "Colegio Mayor Mendel",
+      "acronym": "CMM"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 25
+  },
+  {
+    "code": "Elías Ahuja",
+    "country": "España",
+    "type": "independiente",
+    "institution": {
+      "name": "",
+      "acronym": ""
+    },
+    "society": {
+      "name": "Colegio Mayor Elías Ahuja",
+      "acronym": "CMU EA"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 26
+  },
+  {
+    "code": "CODA",
+    "country": "Ecuador",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Nacional de Loja",
+      "acronym": "UNL"
+    },
+    "society": {
+      "name": "Club de Oratoria y Debate Antítesis",
+      "acronym": "CODA"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 27
+  },
+  {
+    "code": "CODE",
+    "country": "Ecuador",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad de las Fuerzas Armadas Escuela Politécnica del Ejército",
+      "acronym": "ESPE"
+    },
+    "society": {
+      "name": "Club de Oratoria y Debate de la ESPE",
+      "acronym": "CODE"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 28
+  },
+  {
+    "code": "CORNELL",
+    "country": "Estados Unidos",
+    "type": "universidad",
+    "institution": {
+      "name": "Cornell University",
+      "acronym": "CORNELL"
+    },
+    "society": {
+      "name": "Cornell University",
+      "acronym": "CORNELL"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 29
+  },
+  {
+    "code": "CUCSH UDEG",
+    "country": "México",
+    "type": "universidad",
+    "institution": {
+      "name": "Centro Universitario de Ciencias Sociales y Humanidades Universidad de Guadalajara",
+      "acronym": "UG"
+    },
+    "society": {
+      "name": "Centro Universitario de Ciencias Sociales y Humanidades Universidad de Guadalajara",
+      "acronym": "CUCSH UDEG"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 31
+  },
+  {
+    "code": "CUCS UDEG",
+    "country": "México",
+    "type": "universidad",
+    "institution": {
+      "name": "Centro Universitario de Ciencias de la Salud Universidad de Guadalajara",
+      "acronym": "UG"
+    },
+    "society": {
+      "name": "Centro Universitario de Ciencias de la Salud Universidad de Guadalajara",
+      "acronym": "CUCS UDEG"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 31
+  },
+  {
+    "code": "D-UCV",
+    "country": "Venezuela",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Central de Venezuela",
+      "acronym": "UCV"
+    },
+    "society": {
+      "name": "Equipo de Debate de la Universidad Central de Venezuela",
+      "acronym": "D-UCV"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 32
+  },
+  {
+    "code": "DLCC",
+    "country": "Chile",
+    "type": "escolar",
+    "institution": {
+      "name": "Liceo Carmela Carvajal",
+      "acronym": "LCC"
+    },
+    "society": {
+      "name": "Sociedad de Debate Liceo Carmela Carvajal",
+      "acronym": "DLCC"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 33
+  },
+  {
+    "code": "EDUG",
+    "country": "México",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad de Guanajuato",
+      "acronym": "UG"
+    },
+    "society": {
+      "name": "Equipo de Debate de la Universidad de Guanajuato",
+      "acronym": "EDUG"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 34
+  },
+  {
+    "code": "EPN",
+    "country": "Ecuador",
+    "type": "universidad",
+    "institution": {
+      "name": "Escuela Politécnica Nacional del Ecuador",
+      "acronym": "EPN"
+    },
+    "society": {
+      "name": "Escuela Politécnica Nacional del Ecuador",
+      "acronym": "EPN"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 35
+  },
+  {
+    "code": "ESAN",
+    "country": "Perú",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad ESAN",
+      "acronym": "ESAN"
+    },
+    "society": {
+      "name": "Universidad ESAN",
+      "acronym": "ESAN"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 36
+  },
+  {
+    "code": "ESCAR",
+    "country": "Chile",
+    "type": "universidad",
+    "institution": {
+      "name": "Escuela de Carabineros de Chile del General Carlos Ibáñez del Campo",
+      "acronym": "ESCAR"
+    },
+    "society": {
+      "name": "Escuela de Carabineros de Chile",
+      "acronym": "ESCAR"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 37
+  },
+  {
+    "code": "GAD-UAB",
+    "country": "España",
+    "type": "universidad",
+    "institution": {
+      "name": "Universitat Autònoma de Barcelona",
+      "acronym": "UAB"
+    },
+    "society": {
+      "name": "Grup d'Argumentació i Debat de la Universitat Autònoma de Barcelona",
+      "acronym": "GAD-UAB"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 38
+  },
+  {
+    "code": "IDS",
+    "country": "Reino Unido",
+    "type": "universidad",
+    "institution": {
+      "name": "Institute of Development Studies",
+      "acronym": "IDS"
+    },
+    "society": {
+      "name": "Institute of Development Studies",
+      "acronym": "IDS"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 39
+  },
+  {
+    "code": "Indalo",
+    "country": "España",
+    "type": "independiente",
+    "institution": {
+      "name": "",
+      "acronym": ""
+    },
+    "society": {
+      "name": "Asociación de Debate Indalo",
+      "acronym": "INDALO"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 40
+  },
+  {
+    "code": "IPA",
+    "country": "",
+    "type": "universidad",
+    "institution": {
+      "name": "Instituto Panamericano",
+      "acronym": "IPA"
+    },
+    "society": {
+      "name": "Instituto Panamericano",
+      "acronym": "IPA"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 41
+  },
+  {
+    "code": "IPN",
+    "country": "México",
+    "type": "universidad",
+    "institution": {
+      "name": "Instituto Politécnico Nacional",
+      "acronym": "IPN"
+    },
+    "society": {
+      "name": "Instituto Politécnico Nacional",
+      "acronym": "IPN"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 42
+  },
+  {
+    "code": "ISC",
+    "country": "",
+    "type": "universidad",
+    "institution": {
+      "name": "Instituto Sagrado Corazón",
+      "acronym": "ISC"
+    },
+    "society": {
+      "name": "Sociedad de Debate del Instituto Sagrado Corazón",
+      "acronym": "ISC"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 43
+  },
+  {
+    "code": "JARC",
+    "country": "Panamá",
+    "type": "universidad",
+    "institution": {
+      "name": "Colegio José Antonio Remón Cantera",
+      "acronym": "JARC"
+    },
+    "society": {
+      "name": "Club de Debate JARC",
+      "acronym": "JARC"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 44
+  },
+  {
+    "code": "JUD",
+    "country": "",
+    "type": "independiente",
+    "institution": {
+      "name": "",
+      "acronym": ""
+    },
+    "society": {
+      "name": "Jóvenes Unidos por el Diálogo",
+      "acronym": "JUD"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 45
+  },
+  {
+    "code": "LUD",
+    "country": "",
+    "type": "independiente",
+    "institution": {
+      "name": "",
+      "acronym": ""
+    },
+    "society": {
+      "name": "Liga Universitaria de Debate",
+      "acronym": "LUD"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 46
+  },
+  {
+    "code": "ODSM",
+    "country": "Perú",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Nacional Mayor de San Marcos",
+      "acronym": "UNMSM"
+    },
+    "society": {
+      "name": "Círculo de Debate de San Marcos",
+      "acronym": "ODSM"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 47
+  },
+  {
+    "code": "PoCu",
+    "country": "México",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Nacional Autónoma de México",
+      "acronym": "UNAM"
+    },
+    "society": {
+      "name": "Sociedad y Club de Debate Poder Cultural de la Facultad de Economía de la UNAM",
+      "acronym": "PoCu"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 48
+  },
+  {
+    "code": "UNISABANA",
+    "country": "Colombia",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad de la Sabana",
+      "acronym": "US"
+    },
+    "society": {
+      "name": "Sociedad de Debate Politeia",
+      "acronym": "POLITEIA"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 49
+  },
+  {
+    "code": "PUCC",
+    "country": "Chile",
+    "type": "universidad",
+    "institution": {
+      "name": "Pontificia Universidad Católica de Chile",
+      "acronym": "PUC"
+    },
+    "society": {
+      "name": "Pontificia Universidad Católica de Chile",
+      "acronym": "PUCC"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 50
+  },
+  {
+    "code": "PUCMM",
+    "country": "República Dominicana",
+    "type": "universidad",
+    "institution": {
+      "name": "Pontificia Universidad Católica Madre y Maestra",
+      "acronym": "PUCMM"
+    },
+    "society": {
+      "name": "Pontificia Universidad Católica Madre y Maestra",
+      "acronym": "PUCMM"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 51
+  },
+  {
+    "code": "PUCV",
+    "country": "Chile",
+    "type": "universidad",
+    "institution": {
+      "name": "Pontificia Universidad Católica de Valparaíso",
+      "acronym": "PUCV"
+    },
+    "society": {
+      "name": "Pontificia Universidad Católica de Valparaíso",
+      "acronym": "PUCV"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 52
+  },
+  {
+    "code": "Rhetor",
+    "country": "Colombia",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Nacional de Colombia - Sede Medellín",
+      "acronym": "UNAL"
+    },
+    "society": {
+      "name": "Sociedad de Debate Rhetor",
+      "acronym": "RHETOR"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 53
+  },
+  {
+    "code": "SAUDG",
+    "country": "México",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad de Guadalajara",
+      "acronym": "UG"
+    },
+    "society": {
+      "name": "Sociedad Argumentativa de la Universidad de Guadalajara",
+      "acronym": "SAUDG"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 54
+  },
+  {
+    "code": "SDA",
+    "country": "México",
+    "type": "independiente",
+    "institution": {
+      "name": "",
+      "acronym": ""
+    },
+    "society": {
+      "name": "Sociedad de Debates Azteca",
+      "acronym": "SDA"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 55
+  },
+  {
+    "code": "UCM",
+    "country": "España",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Complutense de Madrid",
+      "acronym": "UCM"
+    },
+    "society": {
+      "name": "Sociedad de Debates Complutense",
+      "acronym": "SDC"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 56
+  },
+  {
+    "code": "ITESO",
+    "country": "México",
+    "type": "universidad",
+    "institution": {
+      "name": "Instituto Tecnológico y de Estudios Superiores de Occidente",
+      "acronym": "ITESO"
+    },
+    "society": {
+      "name": "Sociedad de Debate ITESO - SDI",
+      "acronym": "SDI"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 57
+  },
+  {
+    "code": "USFQ",
+    "country": "Ecuador",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad San Francisco de Quito",
+      "acronym": "USFQ"
+    },
+    "society": {
+      "name": "Sociedad de Debate y Oratoria USFQ",
+      "acronym": "SDO USFQ"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 58
+  },
+  {
+    "code": "SDOUPLA",
+    "country": "Perú",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Peruana Los Andes",
+      "acronym": "UPLA"
+    },
+    "society": {
+      "name": "Sociedad de Debate y Oratoria UPLA",
+      "acronym": "SDOUPLA"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 59
+  },
+  {
+    "code": "PUCP",
+    "country": "Perú",
+    "type": "universidad",
+    "institution": {
+      "name": "Pontificia Universidad Católica del Perú",
+      "acronym": "PUCP"
+    },
+    "society": {
+      "name": "Sociedad de Debate PUCP",
+      "acronym": "SDP"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 60
+  },
+  {
+    "code": "UNIANDES",
+    "country": "Colombia",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad de los Andes",
+      "acronym": "Uniandes"
+    },
+    "society": {
+      "name": "Sociedad de Debate Uniandina",
+      "acronym": "SDU"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 61
+  },
+  {
+    "code": "SDUA",
+    "country": "Ecuador",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Andina Simón Bolívar",
+      "acronym": "UASB"
+    },
+    "society": {
+      "name": "Sociedad de Debate de la UASB-E",
+      "acronym": "SDUA"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 62
+  },
+  {
+    "code": "UAM",
+    "country": "España",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Autónoma de Madrid",
+      "acronym": "UAM"
+    },
+    "society": {
+      "name": "Sociedad de Debate de la Universidad Autónoma de Madrid",
+      "acronym": "SDUAM"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 63
+  },
+  {
+    "code": "SDUN",
+    "country": "Colombia",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Nacional de Colombia - Sede Bogotá",
+      "acronym": "UNAL"
+    },
+    "society": {
+      "name": "Sociedad de Debate Universidad Nacional",
+      "acronym": "SDUN"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 64
+  },
+  {
+    "code": "Rosario",
+    "country": "Colombia",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad del Rosario",
+      "acronym": "UR"
+    },
+    "society": {
+      "name": "Sociedad de Debate Universidad del Rosario",
+      "acronym": "SDUR"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 65
+  },
+  {
+    "code": "UTP",
+    "country": "Panamá",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Tecnológica de Panamá",
+      "acronym": "UTP"
+    },
+    "society": {
+      "name": "Sociedad de Debate de la Universidad Tecnológica de Panamá",
+      "acronym": "SDUTP"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 66
+  },
+  {
+    "code": "UVG",
+    "country": "Guatemala",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad del Valle de Guatemala",
+      "acronym": "UVG"
+    },
+    "society": {
+      "name": "Sociedad de Debate de la Universidad del Valle de Guatemala",
+      "acronym": "SDUVG"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 67
+  },
+  {
+    "code": "SEDEVI",
+    "country": "",
+    "type": "independiente",
+    "institution": {
+      "name": "",
+      "acronym": ""
+    },
+    "society": {
+      "name": "Selección Debate Vitacura",
+      "acronym": "SEDEVI"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 68
+  },
+  {
+    "code": "UMNG",
+    "country": "Colombia",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Militar Nueva Granada",
+      "acronym": "UMNG"
+    },
+    "society": {
+      "name": "Sociedad de Debate Universidad Militar Nueva Granada",
+      "acronym": "SNDD"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 69
+  },
+  {
+    "code": "SNDE",
+    "country": "Perú",
+    "type": "independiente",
+    "institution": {
+      "name": "",
+      "acronym": ""
+    },
+    "society": {
+      "name": "Selección Nacional de Debate Escolar",
+      "acronym": "SNDE"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 70
+  },
+  {
+    "code": "SODA UDEP",
+    "country": "Perú",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad de Piura",
+      "acronym": "UDEP"
+    },
+    "society": {
+      "name": "Sociedad de Debate y Argumentación de la Universidad de Piura",
+      "acronym": "SODA UDEP"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 71
+  },
+  {
+    "code": "SODA UDEP - CP",
+    "country": "Perú",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad de Piura - Campus Piura",
+      "acronym": "UDEP"
+    },
+    "society": {
+      "name": "Sociedad de Debate y Argumentación de la Universidad de Piura - Campus Piura",
+      "acronym": "SODA UDEP - CP"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 72
+  },
+  {
+    "code": "SODE UNP",
+    "country": "Perú",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Nacional de Piura",
+      "acronym": "UNP"
+    },
+    "society": {
+      "name": "Sociedad de Oratoria y Debate de la Universidad Nacional de Piura",
+      "acronym": "SODE UNP"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 74
+  },
+  {
+    "code": "UNT",
+    "country": "Perú",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Nacional de Trujillo",
+      "acronym": "UNT"
+    },
+    "society": {
+      "name": "Sociedad de Debate de la Universidad Nacional de Trujillo",
+      "acronym": "SODE UNT"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 75
+  },
+  {
+    "code": "SODECH",
+    "country": "Perú",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Peruana Cayetano Heredia",
+      "acronym": "UPCH"
+    },
+    "society": {
+      "name": "Sociedad de Debate Cayetano Heredia",
+      "acronym": "SODECH"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 76
+  },
+  {
+    "code": "SODESAH",
+    "country": "Perú",
+    "type": "independiente",
+    "institution": {
+      "name": "",
+      "acronym": ""
+    },
+    "society": {
+      "name": "Sociedad de Debate San Antonio de Huamanga",
+      "acronym": "SODESAH"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 77
+  },
+  {
+    "code": "SODEUCH",
+    "country": "Chile",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad de Chile",
+      "acronym": "UCH"
+    },
+    "society": {
+      "name": "Sociedad de Debate de la Universidad de Chile",
+      "acronym": "SODEUCH"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 78
+  },
+  {
+    "code": "SODEUPC",
+    "country": "Perú",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Peruana de Ciencias Aplicadas",
+      "acronym": "UPCA"
+    },
+    "society": {
+      "name": "Sociedad de Debate de la Universidad Peruana de Ciencias Aplicadas",
+      "acronym": "SODEUPC"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 79
+  },
+  {
+    "code": "SODEZA",
+    "country": "",
+    "type": "independiente",
+    "institution": {
+      "name": "",
+      "acronym": ""
+    },
+    "society": {
+      "name": "Sociedad de Debate Zarate",
+      "acronym": "SODEZA"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 80
+  },
+  {
+    "code": "TEC CEM",
+    "country": "México",
+    "type": "universidad",
+    "institution": {
+      "name": "Instituto Tecnológico y de Estudios Superiores de Monterrey - Campus Estado de México",
+      "acronym": "ITESM"
+    },
+    "society": {
+      "name": "Instituto Tecnológico y de Estudios Superiores de Monterrey Campus Estado de México",
+      "acronym": "TEC CEM"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 81
+  },
+  {
+    "code": "TEC CSF",
+    "country": "México",
+    "type": "universidad",
+    "institution": {
+      "name": "Instituto Tecnológico y de Estudios Superiores de Monterrey - Campus Santa Fe",
+      "acronym": "ITESM"
+    },
+    "society": {
+      "name": "Instituto Tecnológico y de Estudios Superiores de Monterrey Campus Santa Fe",
+      "acronym": "TEC CSF"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 82
+  },
+  {
+    "code": "TEC TOL",
+    "country": "México",
+    "type": "universidad",
+    "institution": {
+      "name": "Instituto Tecnológico y de Estudios Superiores de Monterrey - Campus Toluca",
+      "acronym": "ITESM"
+    },
+    "society": {
+      "name": "Instituto Tecnológico y de Estudios Superiores de Monterrey Campus Toluca",
+      "acronym": "TEC TOL"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 83
+  },
+  {
+    "code": "U-Vigo",
+    "country": "España",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad de Vigo",
+      "acronym": "U-Vigo"
+    },
+    "society": {
+      "name": "Universidad de Vigo",
+      "acronym": "U-Vigo"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 85
+  },
+  {
+    "code": "UAEM",
+    "country": "México",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Autónoma del Estado de Morelos",
+      "acronym": "UAEM"
+    },
+    "society": {
+      "name": "Universidad Autónoma del Estado de Morelos",
+      "acronym": "UAEM"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 86
+  },
+  {
+    "code": "UAEMEX",
+    "country": "México",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Autónoma del Estado de México",
+      "acronym": "UAEMEX"
+    },
+    "society": {
+      "name": "Universidad Autónoma del Estado de México",
+      "acronym": "UAEMEX"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 87
+  },
+  {
+    "code": "UANDES",
+    "country": "Chile",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad de los Andes",
+      "acronym": "UANDES"
+    },
+    "society": {
+      "name": "Universidad de los Andes",
+      "acronym": "UANDES CHI"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 88
+  },
+  {
+    "code": "UC",
+    "country": "Perú",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Continental",
+      "acronym": "UC"
+    },
+    "society": {
+      "name": "Universidad Continental",
+      "acronym": "UC"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 89
+  },
+  {
+    "code": "UC3M",
+    "country": "España",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Carlos III de Madrid",
+      "acronym": "UC3M"
+    },
+    "society": {
+      "name": "Sociedad de Debate de la Universidad Carlos III de Madrid",
+      "acronym": "UC3M"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 90
+  },
+  {
+    "code": "UCAB",
+    "country": "Venezuela",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Católica Andrés Bello",
+      "acronym": "UCAB"
+    },
+    "society": {
+      "name": "Sociedad de Debate UCAB",
+      "acronym": "UCAB"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 91
+  },
+  {
+    "code": "UCJC",
+    "country": "España",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Camilo José Cela",
+      "acronym": "UCJC"
+    },
+    "society": {
+      "name": "Club de Debate de la Universidad Camilo José Cela",
+      "acronym": "UCJC"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 92
+  },
+  {
+    "code": "UCM-COM",
+    "country": "España",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Complutense de Madrid",
+      "acronym": "UCM"
+    },
+    "society": {
+      "name": "Comunícate Universidad Complutense de Madrid",
+      "acronym": "UCM-COM"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 93
+  },
+  {
+    "code": "UCR",
+    "country": "Costa Rica",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad de Costa Rica",
+      "acronym": "UCR"
+    },
+    "society": {
+      "name": "Universidad de Costa Rica",
+      "acronym": "UCR"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 94
+  },
+  {
+    "code": "UDD-Santiago",
+    "country": "Chile",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad del Desarrollo - Sede Santiago",
+      "acronym": "UDSS"
+    },
+    "society": {
+      "name": "Universidad del Desarrollo - Sede Santiago",
+      "acronym": "UDD"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 95
+  },
+  {
+    "code": "UDP",
+    "country": "Chile",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Diego Portales",
+      "acronym": "UDP"
+    },
+    "society": {
+      "name": "Universidad Diego Portales",
+      "acronym": "UDP"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 96
+  },
+  {
+    "code": "UFM",
+    "country": "Guatemala",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Francisco Marroquín",
+      "acronym": "UFM"
+    },
+    "society": {
+      "name": "Universidad Francisco Marroquín",
+      "acronym": "UFM"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 97
+  },
+  {
+    "code": "UFV",
+    "country": "España",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Francisco de Vitoria",
+      "acronym": "UFV"
+    },
+    "society": {
+      "name": "Universidad Francisco de Vitoria",
+      "acronym": "UFV"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 98
+  },
+  {
+    "code": "UIC",
+    "country": "España",
+    "type": "universidad",
+    "institution": {
+      "name": "Universitat Internacional de Catalunya",
+      "acronym": "UIC"
+    },
+    "society": {
+      "name": "Universitat Internacional de Catalunya",
+      "acronym": "UIC"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 99
+  },
+  {
+    "code": "ULACIT",
+    "country": "Costa Rica",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Latinoamericana de Ciencia y Tecnología",
+      "acronym": "ULACIT"
+    },
+    "society": {
+      "name": "Universidad Latinoamericana de Ciencia y Tecnología",
+      "acronym": "ULACIT"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 100
+  },
+  {
+    "code": "UMA",
+    "country": "España",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad de Málaga",
+      "acronym": "UMA"
+    },
+    "society": {
+      "name": "Universidad de Málaga",
+      "acronym": "UMA"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 101
+  },
+  {
+    "code": "UNA",
+    "country": "Costa Rica",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Nacional de Costa Rica",
+      "acronym": "UNA"
+    },
+    "society": {
+      "name": "UNA Debate",
+      "acronym": "UNADEBATE"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 102
+  },
+  {
+    "code": "UNAM",
+    "country": "México",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Nacional Autónoma de México",
+      "acronym": "UNAM"
+    },
+    "society": {
+      "name": "Universidad Nacional Autónoma de México",
+      "acronym": "UNAM"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 103
+  },
+
+  {
+    "code": "UNIBE",
+    "country": "República Dominicana",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Iberoamericana",
+      "acronym": "UNIBE"
+    },
+    "society": {
+      "name": "Universidad Iberoamericana",
+      "acronym": "UNIBE"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 105
+  },
+  {
+    "code": "UNIMET",
+    "country": "Venezuela",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Metropolitana de Caracas",
+      "acronym": "UNIMET"
+    },
+    "society": {
+      "name": "Universidad Metropolitana de Caracas",
+      "acronym": "UNIMET"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 106
+  },
+  {
+    "code": "UNINORTE",
+    "country": "Colombia",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad del Norte",
+      "acronym": "UNINORTE"
+    },
+    "society": {
+      "name": "Sociedad de Debate Universidad del Norte",
+      "acronym": "SOCDUN"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 107
+  },
+  {
+    "code": "UNPHU",
+    "country": "República Dominicana",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Nacional Pedro Henríquez Ureña",
+      "acronym": "UNPHU"
+    },
+    "society": {
+      "name": "Universidad Nacional Pedro Henríquez Ureña",
+      "acronym": "UNPHU"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 109
+  },
+  {
+    "code": "UPV",
+    "country": "España",
+    "type": "universidad",
+    "institution": {
+      "name": "Universitat Politècnica de València",
+      "acronym": "UPV"
+    },
+    "society": {
+      "name": "DebatUPV",
+      "acronym": "UPV"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 112
+  },
+  {
+    "code": "URJC",
+    "country": "España",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Rey Juan Carlos",
+      "acronym": "URJC"
+    },
+    "society": {
+      "name": "Club de Debate de Alumnos de la Universidad Rey Juan Carlos",
+      "acronym": "URJC"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 113
+  },
+  {
+    "code": "ADUSAC",
+    "country": "Guatemala",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad de San Carlos de Guatemala",
+      "acronym": "USAC"
+    },
+    "society": {
+      "name": "Asociación de Debate de la Universidad de San Carlos de Guatemala",
+      "acronym": "ADUSAC"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 114
+  },
+  {
+    "code": "USMA",
+    "country": "Panamá",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Santa María La Antigua",
+      "acronym": "USMA"
+    },
+    "society": {
+      "name": "Universidad Santa María La Antigua",
+      "acronym": "USMA"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 115
+  },
+  {
+    "code": "USP",
+    "country": "Brasil",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidade de São Paulo",
+      "acronym": "USP"
+    },
+    "society": {
+      "name": "USP Debate",
+      "acronym": "USPd"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 116
+  },
+  {
+    "code": "UZ",
+    "country": "México",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad de Zacatecas",
+      "acronym": "UZ"
+    },
+    "society": {
+      "name": "Universidad de Zacatecas",
+      "acronym": "UZ"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 117
+  },
+  {
+    "code": "UAQ",
+    "country": "México",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Autónoma de Querétaro",
+      "acronym": "UAQ"
+    },
+    "society": {
+      "name": "Universidad Autónoma de Querétaro",
+      "acronym": "UAQ"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 119
+  },
+  {
+    "code": "Nebrija",
+    "country": "España",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad de Nebrija",
+      "acronym": "Nebrija"
+    },
+    "society": {
+      "name": "Universidad de Nebrija",
+      "acronym": "NEBRIJA"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 120
+  },
+  {
+    "code": "UIS",
+    "country": "Colombia",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Industrial de Santander",
+      "acronym": "UIS"
+    },
+    "society": {
+      "name": "Universidad Industrial de Santander",
+      "acronym": "UIS"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 121
+  },
+  {
+    "code": "Comillas",
+    "country": "España",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Pontificia Comillas",
+      "acronym": "Comillas"
+    },
+    "society": {
+      "name": "Universidad Pontificia Comillas",
+      "acronym": "Comillas"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 122
+  },
+  {
+    "code": "EUNEIZ",
+    "country": "España",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Vitoria-Gasteiz",
+      "acronym": "EUNEIZ"
+    },
+    "society": {
+      "name": "Universidad Vitoria-Gasteiz",
+      "acronym": "EUNEIZ"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 123
+  },
+  {
+    "code": "UASD",
+    "country": "República Dominicana",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Autónoma de Santo Domingo",
+      "acronym": "UASD"
+    },
+    "society": {
+      "name": "Universidad Autónoma de Santo Domingo",
+      "acronym": "UASD"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 124
+  },
+  {
+    "code": "California",
+    "country": "Estados Unidos",
+    "type": "universidad",
+    "institution": {
+      "name": "California Polytechnic State University - San Luis Obispo",
+      "acronym": "California"
+    },
+    "society": {
+      "name": "California Polytechnic State University - San Luis Obispo",
+      "acronym": "California"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 125
+  },
+  {
+    "code": "URL",
+    "country": "Guatemala",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Rafael Landívar",
+      "acronym": "URL"
+    },
+    "society": {
+      "name": "Universidad Rafael Landívar",
+      "acronym": "URL"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 126
+  },
+  {
+    "code": "UCBSP",
+    "country": "Bolivia",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Católica Boliviana San Pablo",
+      "acronym": "UCBSP"
+    },
+    "society": {
+      "name": "Universidad Católica Boliviana San Pablo",
+      "acronym": "UCBSP"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 127
+  },
+  {
+    "code": "SODEX",
+    "country": "Colombia",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Externado de Colombia",
+      "acronym": "UEC"
+    },
+    "society": {
+      "name": "Sociedad de Debate Universidad Externado de Colombia",
+      "acronym": "SODEX"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 128
+  },
+  {
+    "code": "ULIBRE",
+    "country": "Colombia",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Libre",
+      "acronym": "UL"
+    },
+    "society": {
+      "name": "Universidad Libre",
+      "acronym": "ULIB"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 129
+  },
+  {
+    "code": "SDUSA",
+    "country": "Colombia",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Sergio Arboleda",
+      "acronym": "USA"
+    },
+    "society": {
+      "name": "Universidad Sergio Arboleda",
+      "acronym": "SDUSA"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 130
+  },
+  {
+    "code": "ESAP",
+    "country": "Colombia",
+    "type": "universidad",
+    "institution": {
+      "name": "Escuela Superior de Administración Pública",
+      "acronym": "ESAP"
+    },
+    "society": {
+      "name": "Escuela Superior de Administración Pública",
+      "acronym": "ESAP"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 131
+  },
+  {
+    "code": "UABUC",
+    "country": "Colombia",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Autónoma de Bucaramanga",
+      "acronym": "UAB"
+    },
+    "society": {
+      "name": "Universidad Autónoma de Bucaramanga",
+      "acronym": "UABUC"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 132
+  },
+  {
+    "code": "ITIZ",
+    "country": "Colombia",
+    "type": "escolar",
+    "institution": {
+      "name": "Instituto Técnico Industrial de Zipaquirá",
+      "acronym": "HOPP"
+    },
+    "society": {
+      "name": "Sociedad de Debate Hopp",
+      "acronym": "SDHOPP"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 133
+  },
+  {
+    "code": "ADX",
+    "country": "Guatemala",
+    "type": "universidad",
+    "institution": {
+      "name": "Centro Universitario de Occidente de la Universidad San Carlos de Guatemala",
+      "acronym": "CUNOC USAC"
+    },
+    "society": {
+      "name": "Asociación de Debate de Xela",
+      "acronym": "ADX"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 134
+  },
+  {
+    "code": "ASDOBB",
+    "country": "Chile",
+    "type": "independiente",
+    "institution": {
+      "name": "",
+      "acronym": ""
+    },
+    "society": {
+      "name": "Asociación de Debate y Oratoria Bío Bío",
+      "acronym": "ASDOBB"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 136
+  },
+  {
+    "code": "UDD-Concepción",
+    "country": "Chile",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad del Desarrollo - Sede Concepción",
+      "acronym": "UDSC"
+    },
+    "society": {
+      "name": "Universidad del Desarrollo - Sede Concepción",
+      "acronym": "UDD - CON"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 137
+  },
+  {
+    "code": "UDec",
+    "country": "Chile",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad de Concepción",
+      "acronym": "UC"
+    },
+    "society": {
+      "name": "Universidad de Concepción",
+      "acronym": "UCON"
+    },
+    "aliases": [],
+    "verified": true,
+    "source_row": 138
+  },
+  {
+    "code": "CDUCE",
+    "country": "Ecuador",
+    "type": "universidad",
+    "institution": {
+      "name": "Universidad Central del Ecuador",
+      "acronym": "UCE"
+    },
+    "society": {
+      "name": "Club de Debate de la Universidad Central del Ecuador",
+      "acronym": "CDUCE"
+    },
+    "aliases": [],
+    "verified": false,
+    "source_row": 140
+  }
+]

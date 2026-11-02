@@ -1,0 +1,10 @@
+# Secrets (Mongo URI, email password, admin accounts) — never commit
+.streamlit/secrets.toml
+
+# Original spreadsheet stays local; data/societies.json is the cleaned version
+*.xlsx
+
+__pycache__/
+*.pyc
+.venv/
+.idea/
